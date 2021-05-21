@@ -1,4 +1,7 @@
 # Unit 20 - "Looks like we've made our First Contract!"
+
+## I'm very sorry for quality of GIFs. Videos with better quality in Folder Images.
+
 This assignment has three levels of difficulty, with each contract increasing in complexity and capability. Although it is highly recommended you complete all three contracts, you are only required to solve one of the three contracts. Recommended to start with Level 1, then move forward as you complete the challenges. You can build all three with the skills you already have!
 * **Level One** is an `AssociateProfitSplitter` contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
